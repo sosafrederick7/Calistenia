@@ -1,0 +1,6 @@
+{
+  "name": "Eje Calistenia",
+  "description": "Aplicación de entrenamiento corporal y calistenia con rutinas guiadas, horarios semanales, progresiones técnicas y recomendaciones personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
